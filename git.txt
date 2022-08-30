@@ -1,1 +1,4 @@
 esta es la histoaria de como aprendi git bash hace 5 min
+
+quiero aprender from end 
+pero necesito saber usar git 
